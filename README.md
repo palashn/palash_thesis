@@ -1,5 +1,5 @@
 Modified version of Andrew Miede's classic thesis to fit MIT's thesis requirement
-- palash (palash@media.mit.edu)
+- palash (palash@media (@media is @media.mit.edu))
 
 
 Here are the files you need to change to adapt this for your thesis:
